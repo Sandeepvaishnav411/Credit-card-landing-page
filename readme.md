@@ -5,7 +5,7 @@
 ### [Click here](https://creditcardlandpage.netlify.app/)
 
 ## Small Screen
-![](./assets/small.png)
+![](./assets/small%20device.png)
 
 ## large Screen
 ![](./assets/large.png)
